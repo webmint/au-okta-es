@@ -1,3 +1,5 @@
+// This file is copied from vue okta plugin.
+
 /*!
  * Copyright (c) 2017-Present, Okta, Inc. and/or its affiliates. All rights reserved.
  * The Okta software accompanied by this notice is provided pursuant

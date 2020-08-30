@@ -6,6 +6,11 @@ For more information, go to https://aurelia.io/docs/cli/webpack
 
 ## Run dev app
 
+Before run create .env file and add there variables with values
+
+`OKTA_DOMAIN=
+ OKTA_ID=`
+
 Run `npm start`, then open `http://localhost:8080`
 
 You can change the standard webpack configurations from CLI easily with something like this: `npm start -- --open --port 8888`. However, it is better to change the respective npm scripts or `webpack.config.js` with these options, as per your need.
